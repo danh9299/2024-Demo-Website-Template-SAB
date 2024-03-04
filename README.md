@@ -5,8 +5,8 @@ The frontend design template of an eCommerce Website made with Laravel 10 + Boot
 This is the front-end design I get from the template of the "ecommerce-template" on Github by Nitishrajuprety. <br>
 The source link of the template is: <a href="https://github.com/nitishrajuprety/ecommerce-template">https://github.com/nitishrajuprety/ecommerce-template</a><br>
 # What I will do in this project?
-The origin project has only the templates in html files. I edit it to work on a MVC Laravel project. In other words, the code will be stored and work with Blade.
-There will be updated, as I add backend features to this project. I use Laravel, PHP and MongoDB for this project.
+<p> The origin project has only the templates in html files. I edit it to work on a MVC Laravel project. In other words, the code will be stored and work with Blade templates.
+There will be updated, as I add backend features to this project. I use Laravel, PHP and MongoDB for this project.</p>
 =======
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
